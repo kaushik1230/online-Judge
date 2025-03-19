@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkoj_client=self.webpackChunkoj_client||[]).push([[505],{63505:(e,s,i)=>{i.r(s),i.d(s,{default:()=>l});i(72791);var d=i(80184);const l=()=>(0,d.jsxs)("div",{children:["DashBoard",(0,d.jsx)("div",{children:"This site is still in development"}),(0,d.jsx)("div",{children:"This page has not yet been developed"})]})}}]);
+//# sourceMappingURL=505.1d3acd9f.chunk.js.map

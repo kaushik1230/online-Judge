@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkoj_client=self.webpackChunkoj_client||[]).push([[222],{11222:(e,i,s)=>{s.r(i),s.d(i,{default:()=>l});s(72791);var n=s(80184);const l=()=>(0,n.jsxs)("div",{children:["LinkShortner",(0,n.jsx)("div",{children:"This site is still in development"}),(0,n.jsx)("div",{children:"This page has not yet been developed"})]})}}]);
+//# sourceMappingURL=222.de0c5894.chunk.js.map

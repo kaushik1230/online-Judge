@@ -1,0 +1,69 @@
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5001 3/19/2025, 10:45:02 AM
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : java-oj-container
+
+gcc-oj-container Id : fb73ebadbd21bfe238e8bd6c1fee59318b470b8009f94570d0a506270c9e2bc8
+py-oj-container Id : a7c3e15e57c8ba533eefe01cbdc133fcd2aa8bbe7ce6de0e0e0cc1414e31f70a
+js-oj-container Id : f04140e81f1f02e2249f6fc63274c87bd27d9dc2a476842152d1a589b091750e
+java-oj-container Id : 89950bf6042cd6752014c6ecdd2b524e04886f0d6d5ffcd60132a25423ce1938
+
+All Containers Initialized
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5001 3/19/2025, 10:46:29 AM
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : java-oj-container
+
+gcc-oj-container Id : a49e3ab6f5b48216f3a1fc24aebe12501d487924df589f0463ec9689ca04ce19
+py-oj-container Id : e7e04e29b724a8bdebe1e4bb240779095a839ff2152d149791df1b35fca3f006
+js-oj-container Id : d62eb7b3b7b3894f9b4ff2942ad35f8f0b2bb0b483bee768ebeb83658520148f
+java-oj-container Id : 4ac2ac18395b382f7feb37a69e325c6c5b2a7d96e6cba1717c4e7b4a84bbb430
+
+All Containers Initialized
+Database Connected !!!
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5001 3/19/2025, 10:55:28 AM
+gcc-oj-container Id : 094248c4e1350c5b59757761f3ea9e0ac7743fd4b9fdfca517e7baff6bce80de
+py-oj-container Id : db1c3fc1ebf9ea924bf3b2a7ea656809da5cadd2369b0caf2af9dc0904fca340
+js-oj-container Id : a608f1562457e7622001c114b9f2b41ce41f03596aeccaa97f372510cddc340c
+java-oj-container Id : 9c428cfb35ed417b38ee6f9c5f70a02dc0a9d0739eb0d6fc31bca63db1f68a84
+
+All Containers Initialized
+Database Connected !!!
+GET /problems 3/19/2025, 10:58:39 AM
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5001 3/19/2025, 11:14:51 AM
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : java-oj-container
+
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+gcc-oj-container Id : 03f362d67454964931ad438746d567264e918116c6b07189703179db3b3f7256
+py-oj-container Id : 5c58fdd6318116bdfdde78ddca4318e2ab0bcc101e4df99934c1e51b18be2201
+js-oj-container Id : 62c62c3515de15700fb957ef8da818d0a69660d4479af65d85092697780f3e8b
+java-oj-container Id : d9e0ab66352d6081cc5ad167be55c038a3692e80e9d32fad9f1f5c7c14fe1db3
+
+All Containers Initialized
+Database Connected !!!
+GET /loggedIn 3/19/2025, 11:15:14 AM
+GET /problems 3/19/2025, 11:15:14 AM
+GET /loggedIn 3/19/2025, 11:15:19 AM
+GET /problems 3/19/2025, 11:15:19 AM
+GET /leaderboard 3/19/2025, 11:15:31 AM
